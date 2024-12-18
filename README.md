@@ -38,8 +38,4 @@ I'm open to collaborating on web-based applications, blockchain-related projects
 
 ## ⚡ Fun fact  
 
-I enjoy coding, brainstorming, problem-solving, and exploring new technologies.  
-
----  
-
-⭐️ From [KabriAcid](https://github.com/KabriAcid)  
+I enjoy coding, brainstorming, problem-solving, and exploring new technologies.
