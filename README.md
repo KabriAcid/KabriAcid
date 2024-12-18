@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi there, I'm KabriAcid 👋  
 
-<!--
-**KabriAcid/KabriAcid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a software engineer passionate about building innovative projects, exploring blockchain technology, and diving deep into programming challenges.  
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** JavaScript, PHP, Java  
+- **Frameworks:** Laravel, React, Node.js  
+- **Tools:** Git, VS Code, WordPress  
+- **Databases:** MySQL, PostgreSQL  
+
+## 🌱 What I'm currently learning  
+
+- Blockchain and crypto-based applications  
+- Web-based banking systems like PiggyNest  
+- Advanced Laravel techniques  
+
+## 📈 GitHub Stats  
+
+![KabriAcid's GitHub stats](https://github-readme-stats.vercel.app/api?username=KabriAcid&show_icons=true&theme=radical)  
+
+## 📫 How to reach me  
+
+- **Email:** [kabriacid01@gmail.com](mailto:kabriacid01@gmail.com)  
+- **LinkedIn:** [Abdullahi Kabri](https://www.linkedin.com/in/abdullahi-kabri-5804011b8/)  
+- **Facebook:** [Abdullahi Abubakar Kabri](https://www.facebook.com/abdullahiabubakar.kabri)  
+
+## 💬 Let's connect!  
+
+I'm open to collaborating on web-based applications, blockchain-related projects, or any innovative tech idea. I love exploring blockchain technology, even though I haven't built blockchain apps yet. Let's create something impactful!  
+
+## 📝 Latest Blog Posts  
+
+<!-- BLOG-POST-LIST:START -->  
+- [Building a Decentralized Marketplace](#)  
+- [Understanding Blockchain Gas Fees](#)  
+<!-- BLOG-POST-LIST:END -->  
+
+## ⚡ Fun fact  
+
+I enjoy coding, brainstorming, problem-solving, and exploring new technologies.  
+
+---  
+
+⭐️ From [KabriAcid](https://github.com/KabriAcid)  
