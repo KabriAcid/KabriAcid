@@ -12,7 +12,8 @@ Welcome to my GitHub profile! I'm a software engineer passionate about building 
 ## 🌱 What I'm currently learning  
 
 - Blockchain and crypto-based applications  
-- Web-based banking systems like PiggyNest  
+- Web-based banking systems like PiggyNest
+- School Management app  
 - Advanced Laravel techniques  
 
 ## 📈 GitHub Stats  
