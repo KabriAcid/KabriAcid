@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a software engineer passionate about building 
 
 ## 💬 Let's connect!  
 
-I'm open to collaborating on web-based applications, blockchain-related projects, or any innovative tech idea. I love exploring blockchain technology, even though I haven't built blockchain apps yet. Let's create something impactful!  
+I'm open to collaborating on web-based applications, blockchain-related projects, or innovative tech ideas. I love exploring blockchain technology, even though I haven't built blockchain apps yet. Let's create something impactful!  
 
 ## 📝 Latest Blog Posts  
 
