@@ -5,16 +5,15 @@ Welcome to my GitHub profile! I'm a software engineer passionate about building 
 ## 🔧 Technologies & Tools  
 
 - **Languages:** JavaScript, PHP, Java  
-- **Frameworks:** Laravel, React, Node.js  
-- **Tools:** Git, VS Code, WordPress  
-- **Databases:** MySQL, PostgreSQL  
+- **Frameworks:** Laravel, Tailwind, React, Node.js  
+- **Tools:** Git, VS Code
+- **Databases:** MySQL
 
 ## 🌱 What I'm currently learning  
 
 - Blockchain and crypto-based applications  
 - Web-based banking systems like PiggyNest
 - School Management app  
-- Advanced Laravel techniques  
 
 ## 📈 GitHub Stats  
 
