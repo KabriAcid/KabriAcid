@@ -1,19 +1,19 @@
 # Hi there, I'm KabriAcid 👋  
 
-Welcome to my GitHub profile! I'm a software engineer passionate about building innovative projects, exploring blockchain technology, and diving deep into programming challenges.  
+I'm a software engineer passionate about building innovative projects, exploring fintech technologies, and diving deep into programming challenges.  
 
 ## 🔧 Technologies & Tools  
 
 - **Languages:** JavaScript, PHP, Java  
 - **Frameworks:** Laravel, Tailwind, React, Node.js  
 - **Tools:** Git, VS Code
-- **Databases:** MySQL
+- **Databases:** MySQL, Postgres, SQLite
 
 ## 🌱 What I'm currently learning  
 
-- Blockchain and crypto-based applications  
-- Web-based banking systems like PiggyNest
-- School Management app  
+- Feenix (School fees management and payroll management system)
+- Scora (Livescore app)
+- Simulife (A real-life simulation 2D world)
 
 ## 📈 GitHub Stats  
 
@@ -27,14 +27,7 @@ Welcome to my GitHub profile! I'm a software engineer passionate about building 
 
 ## 💬 Let's connect!  
 
-I'm open to collaborating on web-based applications, blockchain-related projects, or innovative tech ideas. I love exploring blockchain technology, even though I haven't built blockchain apps yet. Let's create something impactful!  
-
-## 📝 Latest Blog Posts  
-
-<!-- BLOG-POST-LIST:START -->  
-- [Building a Decentralized Marketplace](#)  
-- [Understanding Blockchain Gas Fees](#)  
-<!-- BLOG-POST-LIST:END -->  
+I'm open to collaborating on web-based applications, fintech-related projects, or innovative tech ideas. I love exploring blockchain technology, even though I haven't built blockchain apps yet. Let's create something impactful!  
 
 ## ⚡ Fun fact  
 
