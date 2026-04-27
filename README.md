@@ -12,7 +12,10 @@
 
 <div align="center">
 
-**Full-Stack Software Engineer | Backend Specialist | System Designer**
+**Full-Stack Software Engineer | Backend Specialist | UIX Designer**
+
+🎓 *BSc. Software Engineering*  
+🏛️ *Al-Qalam University Katsina*
 
 Passionate about high-performing web and desktop software, clean architecture, and developer productivity.  
 I believe in crafting robust solutions—from RESTful APIs and modern web frontends to cross-platform desktop apps—with focus on quality and innovation.
@@ -54,22 +57,26 @@ I believe in crafting robust solutions—from RESTful APIs and modern web fronte
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Desktop
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![Java Swing](https://img.shields.io/badge/Java%20Swing-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ### Databases & DevOps
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![FileZilla](https://img.shields.io/badge/FileZilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=white)
 
 ---
 
@@ -77,7 +84,7 @@ I believe in crafting robust solutions—from RESTful APIs and modern web fronte
 
 - **Full-Stack Web Engineering:** Scalable, modern, and maintainable stacks (MERN · Next.js · Laravel · Spring)
 - **Backend APIs & Microservices:** RESTful APIs, DB design, system reliability
-- **Desktop Apps:** Electron.js, Tauri.js cross-platform builds
+- **Desktop Apps:** Electron.js, Java Swing (and Tauri.js) cross-platform builds
 - **Software Architecture:** Clean code, modular design, security-first
 
 ---
@@ -88,16 +95,14 @@ I believe in crafting robust solutions—from RESTful APIs and modern web fronte
   <img src="https://streak-stats.demolab.com/?user=KabriAcid&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%" />
 </div>
 <div align="center">
-![KabriAcid's GitHub stats](https://github-readme-stats.vercel.app/api?username=KabriAcid&show_icons=true&theme=radical)  
+  <img src="https://github-readme-stats.vercel.app/api?username=KabriAcid&show_icons=true&theme=radical" alt="KabriAcid's GitHub stats" width="70%" />
 </div>
-
-
 
 ---
 
 ## 🌐 Community & Involvement
 
-- 💬 **Ask Me About:** Full-stack development, backend infrastructure, Electron/Tauri, automation workflows
+- 💬 **Ask Me About:** Full-stack development, backend infrastructure, Electron/Java Swing, automation workflows
 - 📝 **Tech Writing:** Occasional articles and code notes (coming soon)
 - 📢 **Mentoring:** Happy to support new devs and open source newcomers
 
@@ -111,10 +116,26 @@ I believe in crafting robust solutions—from RESTful APIs and modern web fronte
 
 ---  
 
-
 ## 📫 How to reach me  
 
-- **Email:** [kabriacid01@gmail.com](mailto:kabriacid01@gmail.com)  
-- **LinkedIn:** [Abdullahi Kabri](https://www.linkedin.com/in/abdullahi-kabri-5804011b8/)  
-- **Facebook:** [Abdullahi Abubakar Kabri](https://www.facebook.com/abdullahiabubakar.kabri)  
+<div align="left" style="display: flex; align-items: center; gap: 18px;">
 
+<a href="mailto:kabriacid01@gmail.com" target="_blank" title="Email" style="margin-right:20px;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="30px" />
+</a>
+<a href="https://www.linkedin.com/in/abdullahi-kabri-5804011b8/" target="_blank" title="LinkedIn" style="margin-right:20px;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="30px" />
+</a>
+<a href="https://www.facebook.com/abdullahiabubakar.kabri" target="_blank" title="Facebook" style="margin-right:20px;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" alt="Facebook" width="30px" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ _Turning complex problems into simple, efficient solutions._
+
+</div>
