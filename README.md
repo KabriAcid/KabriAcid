@@ -86,8 +86,11 @@ I believe in crafting robust solutions—from RESTful APIs and modern web fronte
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=KabriAcid&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%" />
+</div>
+<div align="center">
 ![KabriAcid's GitHub stats](https://github-readme-stats.vercel.app/api?username=KabriAcid&show_icons=true&theme=radical)  
 </div>
+
 
 
 ---
