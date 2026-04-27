@@ -118,7 +118,7 @@ I believe in crafting robust solutions—from RESTful APIs and modern web fronte
 
 ## 📫 How to reach me  
 
-<div align="left" style="display: flex; align-items: center; gap: 18px;">
+<div align="left" style="display: flex; align-items: center; gap: 38px;">
 
 <a href="mailto:kabriacid01@gmail.com" target="_blank" title="Email" style="margin-right:20px;">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="30px" />
@@ -136,6 +136,6 @@ I believe in crafting robust solutions—from RESTful APIs and modern web fronte
 
 <div align="center">
 
-### ⚡ _Turning complex problems into simple, efficient solutions._
+### ⚡ _I love solving problems and fixing bugs._
 
 </div>
